@@ -1,9 +1,10 @@
 
 ## coursera-dl
-1. $ pip3 install coursera-dl
+1. ```$ pip3 install coursera-dl```  ====> [documentation](https://github.com/coursera-dl/coursera-dl#coursera-downloader)
 2. go to the working dir and put [coursera-dl.conf](https://github.com/us-upal/download/blob/main/coursera-dl.conf)
-3. at working dir $ coursera-dl course_name
-Example:
+3. at working dir ```$ coursera-dl course_name```
+4.Example:
+
 ```commandline
 $ coursera-dl linear-algebra-machine-learning
 ```
