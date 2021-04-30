@@ -1,7 +1,7 @@
 
 ## coursera-dl
 1. $ pip3 install coursera-dl
-2. go to the working dir and put coursera-dl.conf
+2. go to the working dir and put [coursera-dl.conf](https://github.com/us-upal/download/blob/main/coursera-dl.conf)
 3. at working dir $ coursera-dl course_name
 Example:
 ```commandline
