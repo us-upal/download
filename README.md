@@ -12,8 +12,8 @@ $ coursera-dl linear-algebra-machine-learning
                                
 
 ## youtube-dl
-1. download cookies.txt in the browser extension
-2. download youtube-dl.exe
+1. add  [get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid?hl=en) in the chrome browser extension
+2. download youtube-dl.exe || ```$ pip3 install youtube-dl``` ====> official documentation [youtube-dl](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme)
 3. go to working dir
 4. cookies.txt to the workingDir
 5. run CMD as admisistrator or in zsh:
