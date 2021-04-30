@@ -1,0 +1,8 @@
+1. $ pip3 install coursera-dl
+2. go to the working dir and put coursera-dl.conf
+3. at working dir $ coursera-dl course_name
+Example:
+https://www.coursera.org/learn/linear-algebra-machine-learning
+                               |-----------------------------|
+                                        course name
+
