@@ -18,7 +18,7 @@ $ coursera-dl linear-algebra-machine-learning
 4. cookies.txt to the workingDir
 5. run CMD as admisistrator or in zsh:
 ```commandline
-youtube-dl --download-archive archive.txt --cookies cookies.txt -o "C:\Lynda\%(playlist_index)s - %(title)s.%(ext)s" https:www.YourCourseURL.com --playlist-start 1 --all-subs -f "best[height=720]"
+youtube-dl --download-archive archive.txt --cookies cookies.txt -o "(playlist_index)s - %(title)s.%(ext)s" https:www.YourCourseURL.com --playlist-start 1 --all-subs -f "best[height=720]"
 ```
 
 Example:
